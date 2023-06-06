@@ -1,0 +1,29 @@
+Lista de comandos!
+[Principais comandos do Nuker]
+2)start - Inicia a destruição
+3)stop - Desliga o Nuker!
+
+[Comandos para canais]
+1)cdel - Deleta todos os canais!
+2)ccr  - Cria canais infinitos com nomes aleatórios de uma lista de nomes!
+3)cinv - Cria um novo convite para o canal que o comando foi digitado!
+
+[Comandos Mod]
+1)ban - Bane um user
+2)unban - Desbane um user
+3)sname - Muda o nome do servidor
+
+[Comandos Mod em massa]
+1)unbanall - Desbane todos os users banidos!
+2)banall - Bane todos os users do servidor menos você e users que tem mais permissão tipo dono e outros!
+
+[Comandos para cargo]
+1)rdel - Deleta todos os cargos que o Nuker conseguir!
+2)eperm - Da todas as permissões para o cargo @everyone!
+3)adrole - Da um cargo para um membro
+4)drole - Deleta cargo
+5)crole - Cria um cargo com todas as permissões
+
+[Comandos para emoji]
+1)edel - Deleta todos os emojis
+
